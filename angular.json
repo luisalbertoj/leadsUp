@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "crm": "apps/crm",
+    "crm-e2e": "apps/crm-e2e"
+  }
+}
